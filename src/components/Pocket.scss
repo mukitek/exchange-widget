@@ -1,0 +1,36 @@
+.pocket {
+  height: 45vh;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 4px;
+  .row {
+    & .currency, .balance{
+      text-align: left;
+    }
+    & .money{
+      text-align: left;
+    }
+    &.row1 {
+      font-size: 3rem;
+      @media only screen and (max-width: 730px) {
+        font-size: 2rem;
+      }
+      @media only screen and (max-width: 500px) {
+        font-size: 1.5rem;
+      }
+      @media only screen and (max-width: 390px) {
+        font-size: 1.1rem;
+      }
+      & > .currency select, input, input:focus{
+        background: dodgerblue;
+        border: none;
+        outline: none;
+        color: white;
+      }
+
+      & input {
+        width: 90%;
+      }
+    }
+  }
+}

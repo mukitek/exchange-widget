@@ -1,0 +1,34 @@
+.header {
+  height: 10vh;
+  display: flex;
+
+  .btn {
+    color: white;
+    background-color: transparent;
+    border: none;
+    width: 30vw;
+    height: 100%;
+    font-size: 1.5rem;
+    @media only screen and (max-width: 730px) {
+      font-size: 1.2rem;
+    }
+    @media only screen and (max-width: 500px) {
+      font-size: 1rem;
+    }
+    @media only screen and (max-width: 390px) {
+      font-size: 0.8rem;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .rate {
+    width: 40vw;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
