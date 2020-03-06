@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mukitek/exchange-widget/static/css/main.72f90282.chunk.css",
+    "main.js": "/mukitek/exchange-widget/static/js/main.41c1391e.chunk.js",
+    "main.js.map": "/mukitek/exchange-widget/static/js/main.41c1391e.chunk.js.map",
+    "runtime-main.js": "/mukitek/exchange-widget/static/js/runtime-main.071d7aad.js",
+    "runtime-main.js.map": "/mukitek/exchange-widget/static/js/runtime-main.071d7aad.js.map",
+    "static/js/2.03e03d62.chunk.js": "/mukitek/exchange-widget/static/js/2.03e03d62.chunk.js",
+    "static/js/2.03e03d62.chunk.js.map": "/mukitek/exchange-widget/static/js/2.03e03d62.chunk.js.map",
+    "index.html": "/mukitek/exchange-widget/index.html",
+    "precache-manifest.b14a97c645c9dfc2123dee02898a8e8a.js": "/mukitek/exchange-widget/precache-manifest.b14a97c645c9dfc2123dee02898a8e8a.js",
+    "service-worker.js": "/mukitek/exchange-widget/service-worker.js",
+    "static/css/main.72f90282.chunk.css.map": "/mukitek/exchange-widget/static/css/main.72f90282.chunk.css.map",
+    "static/js/2.03e03d62.chunk.js.LICENSE.txt": "/mukitek/exchange-widget/static/js/2.03e03d62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.071d7aad.js",
+    "static/js/2.03e03d62.chunk.js",
+    "static/css/main.72f90282.chunk.css",
+    "static/js/main.41c1391e.chunk.js"
+  ]
+}
